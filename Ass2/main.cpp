@@ -1,4 +1,4 @@
-/* Copyright (C) 2017
+/* Copyright (C) 2016
 * Course: CO2003
 * Author: Rang Nguyen
 * Ho Chi Minh City University of Technology
